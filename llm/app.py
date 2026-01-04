@@ -3,6 +3,7 @@ import torch
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from peft import PeftModel
 import time
+import os
 
 # Page Configuration
 st.set_page_config(
@@ -556,7 +557,8 @@ st.markdown("""
 @st.cache_resource
 def load_trained_model():
     base_model_name = "t5-small"
-    adapter_path = "."  # Adapter files are in the current directory
+    # Get the directory where this script is located
+    adapter_path = os.path.dirname(os.path.abspath(__file__))
     
     tokenizer = AutoTokenizer.from_pretrained(adapter_path)
     base_model = AutoModelForSeq2SeqLM.from_pretrained(base_model_name)
