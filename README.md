@@ -57,7 +57,7 @@
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/yourusername/aura-neural-sentinel.git
 cd aura-neural-sentinel
 
@@ -185,13 +185,3 @@ Department of Computer Technology
 ⭐ If you find this project impactful, consider starring the repository.
 🛡️ AURA stands for trust, verification, and intelligent defense.
 
-
----
-
-If you want, I can also:
-- Add **screenshots placeholders**
-- Create a **GitHub banner image**
-- Optimize it for **college evaluation rubrics**
-- Convert this into a **project report / PPT content**
-
-Just tell me.
