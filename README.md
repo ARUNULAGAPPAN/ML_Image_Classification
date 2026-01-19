@@ -63,7 +63,7 @@ cd aura-neural-sentinel
 
 
 
-
+```bash
 
 2️⃣ Install Dependencies
 pip install streamlit opencv-python numpy pillow
