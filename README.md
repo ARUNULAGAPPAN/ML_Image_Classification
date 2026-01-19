@@ -18,23 +18,23 @@
 ### 🔐 Anti-Spoofing Protection
 - Effectively blocks **print attacks**, **screen replay attacks**, and **photo-based impersonation**.
 
-### 🧠 SFace Neural Recognition Engine
+### SFace Neural Recognition Engine
 - Uses a **30MB ONNX-based SFace model**
 - Produces **128-dimensional facial embeddings**
 - Optimized for **low latency & high accuracy**
 
-### 👄 Dynamic Liveness Challenge
+###  Dynamic Liveness Challenge
 - Requires the user to **open their mouth** in real time
 - Detects internal mouth cavity using **intensity-based pixel analysis**
 
-### 🎨 Ultra-Modern User Interface
+###  Ultra-Modern User Interface
 - Built using **Streamlit** with injected **custom CSS**
 - Features:
   - Deep violet gradient theme
   - Glassmorphism cards
   - Mobile-responsive layout
 
-### 💫 Cyber-Scan Visual Feedback
+###  Cyber-Scan Visual Feedback
 - Animated **violet laser scan** during initialization
 - Provides a futuristic, security-centric experience
 
