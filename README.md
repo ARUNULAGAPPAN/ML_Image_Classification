@@ -58,7 +58,8 @@
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/aura-neural-sentinel.git
+git clone [https://github.com/yourusername/aura-neural-sentinel.git](https://github.com/ARUNULAGAPPAN/ML_Image_Classification)
+
 cd aura-neural-sentinel
 
 
