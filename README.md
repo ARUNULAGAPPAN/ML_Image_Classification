@@ -1,4 +1,4 @@
-# 🛡️ AURA: Neural Sentinel (v4.5)
+# 🛡️ AURA: Neural Sentinel 
 ### Advanced Real-Time Biometric Security & Liveness Detection System
 
 <p align="center">
